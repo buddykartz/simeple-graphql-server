@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@gmail.com",
+      "age": 29
+    },
+    {
+        "id": "2",
+        "name": "Jane Doe",
+        "email": "jane@gmail.com",
+        "age": 35
+      },
+    {
+      "id": "3",
+      "name": "Peter",
+      "email": "pete@gmail.com",
+      "age": 35
+    },
+    {
+      "id": "4",
+      "name": "Donald",
+      "email": "don@gmail.com",
+      "age": 50
+    },
+    {
+      "id": "5",
+      "name": "Pup",
+      "email": "pup@gmail.com",
+      "age": 0.5
+    },
+    {
+      "name": "Joey",
+      "email": "joey@turner.com",
+      "age": 52,
+      "id": "6"
+    }
+  ]
+}
